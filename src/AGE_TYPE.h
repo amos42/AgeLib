@@ -1,4 +1,4 @@
-/*#################################################################
+Ôªø/*#################################################################
 -------------------------------------------------------------------
 
                              AGE (Ver 1.0)
@@ -23,7 +23,7 @@
 #define TRUE            1
 #define FALSE           0
 
-/* ã°•• ïA∑°»· —w */
+/* Í∏∞Î≥∏ Îç∞Ïù¥ÌÑ∞ Ìòï */
 typedef unsigned char   BYTE;
 typedef unsigned short  WORD;
 typedef unsigned long   DWORD;
@@ -40,7 +40,7 @@ typedef signed short    S16;
 typedef unsigned long   U32;
 typedef signed long     S32;
 
-/* úa∑°ßaú·ü° â∑…∑ ïA∑°»· —w */
+/* ÎùºÏù¥Î∏åÎü¨Î¶¨ Í≥µÌÜµ Îç∞Ïù¥ÌÑ∞ Ìòï */
 typedef CHAR*           STRING;
 typedef U8              COLOR;
 typedef U8              DACVALUE;
@@ -150,5 +150,6 @@ FIXED   FixedMulDiv( FIXED a, FIXED b, FIXED c );
 
 
 #endif
+
 
 

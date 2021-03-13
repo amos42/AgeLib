@@ -1,0 +1,14 @@
+;==========================
+;  SLIME Resource Source
+;
+;                - Amos
+;==========================
+
+#resname test.res
+#compress on
+
+; sprite & picture
+test.pic
+test.spr
+test.pal
+
